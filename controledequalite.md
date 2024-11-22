@@ -1,4 +1,4 @@
-# Motus Animi (mouvements de l'esprit) - Sitmonternna Yi
+# Internature
 
 ## Idée générale
 ### Concept

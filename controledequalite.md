@@ -28,10 +28,6 @@ flowchart TD
 ![prototype de la serre](assets/images/prototype_serre.png)
 ![prototype de la serre](assets/images/prototype_sphere.png)
 
-
-### Narratif
-Il n' y a pas de trame narrative, le projet est une immersion intéractive dans un dome.
-
 ### Expérience de l' utilisateur
 #### Installation de la Boule Interactif 
 Les participants sont invités à s'approcher d'une boule lumineuse. En plaçant leurs mains dessus, elle déclenche un visuel unique.

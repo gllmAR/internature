@@ -1,6 +1,5 @@
-# internature
-Projet final en multimedia
-
+# INTERNATURE
+Une projection immersive qui vous emporte au travers d'un univers environnemental afin ----
 
 ## Sources
 ### Recherche Technique

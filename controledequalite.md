@@ -26,7 +26,7 @@ flowchart TD
 ### Plantation 
 
 ![prototype de la serre](assets/images/prototype_serre.png)
-![prototype de la serre](assets/images/prototype_serre.png)
+![prototype de la serre](assets/images/prototype_sphere.png)
 
 
 ### Narratif

@@ -39,7 +39,8 @@ flowchart TD
 ![Serre Prototype](assets/images/prototype.png)
 
 ## Schéma Plantation Studio
-
+![Studio](assets/images/plantation_studio.jpg)
+![Projet de haut](assets/images/plantation_projet.jpeg)
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)

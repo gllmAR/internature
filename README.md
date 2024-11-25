@@ -61,7 +61,6 @@ Reaper
 - Module LIDAR x2
 - Bandes lumineuses LED x2
 
-
 ## Sources
 ### Recherche Technique
 - [Faire des tests de mouvement - Berrings](https://youtu.be/VbxcjOQlUPA?si=PVR5ewIHE-6zU1Ci&t=27)

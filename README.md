@@ -60,7 +60,7 @@ Reaper
 - Berring à bille x4
 - Serre portative x1 
 - PMW3360 Motion Sensor x1
-- UnitV2 M12 x2
+- Module LIDAR x2
 
 
 ## Sources

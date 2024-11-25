@@ -59,7 +59,7 @@ Reaper
 - Support pour la boule x1
 - Berring à bille x4
 - Serre portative x1 
-- PMW3360 Motion Sensor x2 
+- PMW3360 Motion Sensor x1
 - UnitV2 M12 x2
 
 

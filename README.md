@@ -40,11 +40,25 @@ flowchart TD
 ## Prototype de la sphère
 ![Serre Prototype](assets/images/prototype_sphere.png)
 
-## Matériel Requis
-### Procuré par l'artiste
+## Schéma de connexions 
+Mad Mapper
+OSC bridge
+Touch Designer
+Arduino
+Reaper
 
-### Procuré par l'exposition
- 
+## Matériel Requis
+Ordinateur x1
+Projecteur (Tests à faire)x3
+Haut-parleur Genelec x2 
+Haut-parleur Dvoom x2
+Boule semi-transparente x1
+Support pour la boule x1
+Berring à bille x4
+Serre portative x1 
+PMW3360 Motion Sensor x2 
+
+
 ## Sources
 ### Recherche Technique
 - [Faire des tests de mouvement - Berrings](https://youtu.be/VbxcjOQlUPA?si=PVR5ewIHE-6zU1Ci&t=27)

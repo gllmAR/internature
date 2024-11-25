@@ -38,7 +38,7 @@ flowchart TD
 ![Serre Prototype](assets/images/prototype_serre.png)
 
 ## Prototype de la sphère
-![Serre Prototype](assets/images/prototype (1).png)
+![Serre Prototype](assets/images/prototype.png)
 
 ## Schéma de connexions 
 Mad Mapper

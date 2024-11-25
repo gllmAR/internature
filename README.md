@@ -11,6 +11,17 @@ L'interacteur déplace une boule représentant une source d'énergie centrale. E
 - Interconnexion entre l'humain et la nature
 - Transformation
 
+## Schéma d'intéractivité
+```mermaid
+
+flowchart TD
+    A[Animation visuelle minime et volume en pause: état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio]
+    B --> C[Intéragir avec la sphère]
+    C -->|pendant au moins 30 secondes| D[Environnement intéractif avec mouvement des mains] 
+    D --> |pendant 2 minutes| A[Animation visuelle minime en veille]
+
+```
+
 ## Scénario
 
 1. L'intéracteur entre dans la serre -> Détecteur de mouvement qui allume la projections dans les fenêtres et l'ambiance de base musique

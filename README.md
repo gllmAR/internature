@@ -13,13 +13,11 @@ L'interacteur déplace une boule représentant une source d'énergie centrale. E
 
 ## Schéma d'intéractivité
 ```mermaid
-
 flowchart TD
     A[Animation visuelle minime et volume en pause: état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio]
     B --> C[Intéragir avec la sphère]
     C -->|pendant au moins 30 secondes| D[Environnement intéractif avec mouvement des mains] 
     D --> |pendant 2 minutes| A[Animation visuelle minime en veille]
-
 ```
 
 ## Scénario
@@ -39,6 +37,9 @@ flowchart TD
 
 ## Prototype de la sphère
 ![Serre Prototype](assets/images/prototype.png)
+
+## Schéma Plantation Studio
+
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)

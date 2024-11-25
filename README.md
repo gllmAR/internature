@@ -1,5 +1,29 @@
 # INTERNATURE
-Une projection immersive qui vous emporte au travers d'un univers environnemental afin ----
+## Concept: 
+Une immersion interactive dans une arche comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs.
+ 
+Les participants sont invités à s'approcher d'une boule lumineuse. En déplaçant la boule, ça déclenche un visuel unique. 
+ 
+## Objectif : 
+**L'énergie** dégagée par l'interacteur aide à faire grandir les plantes, qui prennent de plus en plus possession de la serre, jusqu'à ce qu'il y aie un spectacle de couleurs.
+L'objectif est de montrer le lien direct entre l'humain et la nature. Même si les humains peuvent la modifier, celle-ci prend toujours le dessus. 
+ 
+## Thèmes:
+- Interconnexion entre l'humain et la nature
+- Transformation
+
+## Scénario
+
+1. L'intéracteur entre dans la serre -> Détecteur de mouvement qui allume la projections dans les fenêtres et l'ambiance de base musique
+2. L'intéracteur s'avance vers la boule et peut admirer l'oeuvre en état "de veille"
+3. L'intéracteur touche à la boule et la tourne -> selon la direction et la vitesse, des projection de plantes grimpent partant du centre vers le haut de la serre. Des bruitages se font entendre.
+4. Lorsque la majorité de la serre a de la projection, il y a un spectable de couleur avec une musique.
+5. L'intéracteur peut toujours jouer avec la boule et modifier le spectacle
+6. Après 45 secondes, le spectacle s'arrête et les plantes raptissent 
+7. L'oeuvre tombe en veille.. bruit de respiration.. comme si l'oeuvre reprend son souffle. Aucune intéraction, cela invite l'intéracteur à quitter la serre
+8. Après 30 secondes, projection sur les fenêtres et mapping de plantes
+9. Si aucune intéraction, fermeture du sons et projections
+ 
 
 ## Sources
 ### Recherche Technique

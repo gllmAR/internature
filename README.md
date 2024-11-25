@@ -40,7 +40,7 @@ flowchart TD
 
 ## Schéma Plantation Studio
 ![Studio](assets/images/plantation_studio.jpg)
-![Projet de haut](assets/images/plantation_projet.jpeg)
+![Projet de haut](assets/images/plantation_projet.jpg)
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)

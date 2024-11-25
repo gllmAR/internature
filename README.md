@@ -23,8 +23,13 @@ L'objectif est de montrer le lien direct entre l'humain et la nature. Même si l
 7. L'oeuvre tombe en veille.. bruit de respiration.. comme si l'oeuvre reprend son souffle. Aucune intéraction, cela invite l'intéracteur à quitter la serre
 8. Après 30 secondes, projection sur les fenêtres et mapping de plantes
 9. Si aucune intéraction, fermeture du sons et projections
- 
 
+## Prototype de serre
+![Serre Prototype](assets/images/prototype_serre.png)
+
+## Prototype de la sphère
+![Serre Prototype](assets/images/prototype_sphere.png)
+ 
 ## Sources
 ### Recherche Technique
 - [Comment utiliser un Gyroscope](https://projecthub.arduino.cc/Nicholas_N/how-to-use-the-accelerometer-gyroscope-gy-521-647e65)

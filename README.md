@@ -61,6 +61,7 @@ Reaper
 - Serre portative x1 
 - PMW3360 Motion Sensor x1
 - Module LIDAR x2
+- Bandes lumineuses LED x2
 
 
 ## Sources

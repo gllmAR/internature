@@ -40,10 +40,8 @@ flowchart TD
 ## Prototype de la sphère
 ![Serre Prototype](assets/images/prototype.png)
 
-## Schéma de branchement
-![Branchement-schéma](assets/images/synopsis_branchement.png)
-
 ## Schéma de connexions 
+![Branchement-schéma](assets/images/synopsis_branchement.png)
 Mad Mapper
 OSC bridge
 Touch Designer

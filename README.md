@@ -5,8 +5,7 @@ Une immersion interactive dans une arche comportant des projections et du mappin
 Les participants sont invités à s'approcher d'une boule lumineuse. En déplaçant la boule, ça déclenche un visuel unique. 
  
 ## Objectif : 
-**L'énergie** dégagée par l'interacteur aide à faire grandir les plantes, qui prennent de plus en plus possession de la serre, jusqu'à ce qu'il y aie un spectacle de couleurs.
-L'objectif est de montrer le lien direct entre l'humain et la nature. Même si les humains peuvent la modifier, celle-ci prend toujours le dessus. 
+L'interacteur déplace une boule représentant une source d'énergie, comme le soleil. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de la serre, comme une plante qui grandit selon la direction du soleil. Lorsqu'elles atteignent leur pleine croissance, un spectacle lumineux et coloré se déclenche. Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature.
  
 ## Thèmes:
 - Interconnexion entre l'humain et la nature

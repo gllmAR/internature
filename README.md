@@ -53,7 +53,7 @@ Reaper
 ## Matériel Requis
 - Ordinateur x1
 - Projecteur (Tests à faire)x3
-- Haut-parleur Genelec x10 
+- Haut-parleur Genelec x2 
 - Haut-parleur Dvoom x10
 - Boule semi-transparente x1
 - Support pour la boule x1

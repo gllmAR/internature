@@ -48,15 +48,16 @@ Arduino
 Reaper
 
 ## Matériel Requis
-Ordinateur x1
-Projecteur (Tests à faire)x3
-Haut-parleur Genelec x2 
-Haut-parleur Dvoom x2
-Boule semi-transparente x1
-Support pour la boule x1
-Berring à bille x4
-Serre portative x1 
-PMW3360 Motion Sensor x2 
+- Ordinateur x1
+- Projecteur (Tests à faire)x3
+- Haut-parleur Genelec x2 
+- Haut-parleur Dvoom x2
+- Boule semi-transparente x1
+- Support pour la boule x1
+- Berring à bille x4
+- Serre portative x1 
+- PMW3360 Motion Sensor x2 
+- UnitV2 M12 x2
 
 
 ## Sources

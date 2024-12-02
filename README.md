@@ -1,15 +1,12 @@
 # INTERNATURE
 ## Concept
-Une immersion interactive dans une arche comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs.
- 
-Les participants sont invités à s'approcher d'une boule lumineuse. En déplaçant la boule, ça déclenche un visuel unique. 
- 
+Internature est une expérience immersive qui intègre le mapping vidéo sur les parois de notre installation, accompagné par une musique ambiante et des sons immersifs. </br></br>
+Au coeur de cet environnement, les visiteurs sont invités à intéragir avec les parois intéractives et une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. </br></br>
+Cette expérience invite les participants à reconnecter avec la nature et à redécouvrir leur lien avec elle de manière unique et émotionnelle.
+
 ## Objectif 
 L'interacteur déplace une boule représentant une source d'énergie centrale. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de la serre, comme une plante qui grandit selon la direction du soleil. Lorsqu'elles atteignent leur pleine croissance, un spectacle lumineux et coloré se déclenche. Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature.
- 
-## Thèmes
-- Interconnexion entre l'humain et la nature
-- Transformation
+
 
 ## Schéma d'intéractivité
 ```mermaid

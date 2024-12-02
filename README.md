@@ -28,14 +28,15 @@ flowchart TD
 9. Si aucune intéraction, fermeture du sons et projections
 
 ## Prototype de serre
-![Serre Prototype](assets/images/prototype_serre.png)
+![prototype](https://github.com/user-attachments/assets/6c94ed5d-d0e3-4c9c-a935-3e3a52411cdf)
 
 ## Prototype de la sphère
 ![Serre Prototype](assets/images/prototype.png)
 
 ## Schéma Plantation Studio
-![Studio](assets/images/plantation_studio.jpg)
-![Projet de haut](assets/images/plantation_projet.jpg)
+![plantation_studio](https://github.com/user-attachments/assets/f34a8618-f61d-47c5-8583-df239a05bba7)
+![plantation_projet](https://github.com/user-attachments/assets/a912db0f-90c9-41cb-aa27-22aed37be0f0)
+
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)

@@ -1,13 +1,13 @@
 # INTERNATURE
-## Concept: 
+## Concept
 Une immersion interactive dans une arche comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs.
  
 Les participants sont invités à s'approcher d'une boule lumineuse. En déplaçant la boule, ça déclenche un visuel unique. 
  
-## Objectif : 
+## Objectif 
 L'interacteur déplace une boule représentant une source d'énergie centrale. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de la serre, comme une plante qui grandit selon la direction du soleil. Lorsqu'elles atteignent leur pleine croissance, un spectacle lumineux et coloré se déclenche. Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature.
  
-## Thèmes:
+## Thèmes
 - Interconnexion entre l'humain et la nature
 - Transformation
 

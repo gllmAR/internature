@@ -33,27 +33,28 @@ flowchart TD
 ## Prototype de la sphère
 ![Serre Prototype](assets/images/prototype.png)
 
-## Schéma Plantation Studio
+## Schéma plantation Studio
 ![plantation_studio](https://github.com/user-attachments/assets/f34a8618-f61d-47c5-8583-df239a05bba7)
 ![plantation_projet](https://github.com/user-attachments/assets/a912db0f-90c9-41cb-aa27-22aed37be0f0)
-
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)
 
 ## Matériel Requis
-- Ordinateur x1
-- Projecteur (Tests à faire)x3
-- Haut-parleur Genelec x2 
-- Haut-parleur Dvoom x10
-- Boule semi-transparente x1
-- Support pour la boule x1
-- Berring à bille x4
-- Serre portative x1 
-- PMW3360 Motion Sensor x1
-- Module LIDAR x2
-- Kinect XBOX x2
-- Bandes lumineuses LED x2
+| Item                    | Stock    |
+| :----------------------:| :------: |
+| Ordinateur              |  1       |
+| Projecteur              |  3       |
+| Haut-parleur Genelec    |  2       |
+| Haut-parleur Dvoom      |  10      |
+| Boule semi-transparente |  1       |
+| Support pour la boule   |  10      |
+| Berring à bille         |  4       |
+| PMW3360 Motion Sensor   |  1       |
+| Module LIDAR            |  2       |
+| Kinect XBOX             |  2       |
+| Bandes lumineuses LED   |  2       |
+| Serre portative         |  1       |
 
 ## Sources
 ### Recherche Technique
@@ -73,20 +74,17 @@ flowchart TD
 - Programmation TouchDesigner
 - Programmation Mapping Vidéo
 - Programmation Mapping Sonore
-
 #### Kenza (Conceptrice)
 - Conceptrice sonore
 - Conceptrice vidéo
 - Programmation Mapping
-
 #### Khaly (AQ et Mascotte)
 - S'assurer du bien-être de tous
 - S'assurer de l'assurance qualité
 - Aide à la programmation
 - Aide conception
 - Programmation Mapping Vidéo
-- Programmation Mapping Sonore
-  
+- Programmation Mapping Sonore 
 #### Sitmonternna (Scrummaster & PO)
 - S'arrurer des délais et que les tâches soient fait
 - Aide à la programmation
@@ -102,11 +100,9 @@ flowchart TD
 - Avoir une liberté artistique
 - L'objectif me parle
 - Voir le produit final
-
 #### Khaly
 - L'objectif me parle
 - L'ambiance visuelle est inspirante
-
 #### Sitmonternna
 - Voir le produit final
 - Travailler sur un gros projet multimédia

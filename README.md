@@ -39,11 +39,6 @@ flowchart TD
 
 ## Schéma de connexions 
 ![Branchement-schéma](assets/images/synopsis_branchement.png)
-Mad Mapper
-OSC bridge
-Touch Designer
-Arduino
-Reaper
 
 ## Matériel Requis
 - Ordinateur x1

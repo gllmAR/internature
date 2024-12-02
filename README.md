@@ -69,3 +69,50 @@ Reaper
 - [Berrings à bille](Statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
 - [PMW3360 Motion Sensor](https://lectronz.com/products/pmw3360-motion-sensor)
 
+## Gestion d'équipe
+### Rôles
+#### Delphine (Programmeur)
+- Programmation Arduino 
+- Programmation TouchDesigner
+- Programmation Mapping Vidéo
+- Programmation Mapping Sonore
+
+#### Kenza (Conceptrice)
+- Conceptrice sonore
+- Conceptrice vidéo
+- Programmation Mapping
+
+#### Khaly (AQ et Mascotte)
+- S'assurer du bien-être de tous
+- S'assurer de l'assurance qualité
+- Aide à la programmation
+- Aide conception
+- Programmation Mapping Vidéo
+- Programmation Mapping Sonore
+  
+#### Sitmonternna (Scrummaster & PO)
+- S'arrurer des délais et que les tâches soient fait
+- Aide à la programmation
+- Aide conception
+- Programmation Mapping Vidéo
+- Programmation Mapping Sonore
+
+### Motivations
+#### Delphine
+- Utilisation de nouvelles technologies et l'apprentissage de celles-ci
+- Voir le produit final
+#### Kenza
+- Avoir une liberté artistique
+- L'objectif me parle
+- Voir le produit final
+
+#### Khaly
+- L'objectif me parle
+- L'ambiance visuelle est inspirante
+
+#### Sitmonternna
+- Voir le produit final
+- Travailler sur un gros projet multimédia
+
+### Échéancier 
+

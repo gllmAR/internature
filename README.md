@@ -108,4 +108,4 @@ flowchart TD
 - Travailler sur un gros projet multimédia
 
 ### Échéancier 
-
+![Échéancier](assets/images/echeancier.png)

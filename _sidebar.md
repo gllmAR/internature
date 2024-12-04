@@ -1,4 +1,4 @@
-* [Ambiance](/Ambiance)
-* [Contrôle de qualité](/Controle-qualite)
-* [Scenario](/Scenario)
+* [Ambiance](/main/Ambiance)
+* [Contrôle de qualité](/main//Controle-qualite)
+* [Scenario](/main//Scenario)
 

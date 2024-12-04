@@ -38,7 +38,7 @@ flowchart TD
 ![plantation_projet](https://github.com/user-attachments/assets/a912db0f-90c9-41cb-aa27-22aed37be0f0)
 
 ## Schéma de connexions 
-![Branchement-schéma](assets/images/synopsis_branchement.png)
+![Branchement-schéma](assets/images/branchement-refait.jpg)
 
 ## Matériel Requis
 | Item                    | Stock    |

@@ -1,2 +1,2 @@
-* (Ambiance)[/Ambiance]
+* [Ambiance](/Ambiance)
 

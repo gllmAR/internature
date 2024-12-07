@@ -16,16 +16,9 @@ flowchart TD
 ```
 
 ## Scénario
+![scenarimage01](https://github.com/user-attachments/assets/38255ac5-1f0f-4702-a841-fe37fe86ec29)
 
-1. L'intéracteur entre dans la serre -> Détecteur de mouvement qui allume la projections dans les fenêtres et l'ambiance de base musique
-2. L'intéracteur s'avance vers la boule et peut admirer l'oeuvre en état "de veille"
-3. L'intéracteur touche à la boule et la tourne -> selon la direction et la vitesse, des projection de plantes grimpent partant du centre vers le haut de la serre. Des bruitages se font entendre.
-4. Lorsque la majorité de la serre a de la projection, il y a un spectable de couleur avec une musique.
-5. L'intéracteur peut toujours jouer avec la boule et modifier le spectacle
-6. Après 45 secondes, le spectacle s'arrête et les plantes raptissent 
-7. L'oeuvre tombe en veille.. bruit de respiration.. comme si l'oeuvre reprend son souffle. Aucune intéraction, cela invite l'intéracteur à quitter la serre
-8. Après 30 secondes, projection sur les fenêtres et mapping de plantes
-9. Si aucune intéraction, fermeture du sons et projections
+![scenarimage02](https://github.com/user-attachments/assets/f0d83230-dba1-482f-a593-9226df00a275)
 
 ## Prototype de serre
 ![prototype](https://github.com/user-attachments/assets/6c94ed5d-d0e3-4c9c-a935-3e3a52411cdf)

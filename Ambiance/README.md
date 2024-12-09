@@ -13,9 +13,6 @@ Un audio calme mêlant des synthétiseurs et des montages sonores expérimentaux
 - [*piano077* de Oscar Scannell](https://www.youtube.com/watch?app=desktop&v=oGSitxblbAg)
 - [Composition sonore venant de *Lost & Found* de Max Lemmit](https://www.youtube.com/watch?app=desktop&v=gpSLtYSHFmg)
 
-### Simulation
-À venir
-
 ### Références et autres inspirations
 
 - [teamLab Borderless Hamburg: Digital Art Museum](https://www.youtube.com/watch?v=rwnFygwoqOQ)

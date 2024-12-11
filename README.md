@@ -1,18 +1,17 @@
 # INTERNATURE
 ## Concept
-Internature est une expérience immersive qui intègre le mapping vidéo sur les parois de notre installation, accompagné par une musique ambiante et des sons immersifs. Au coeur de cet environnement, les visiteurs sont invités à intéragir avec les parois intéractives et une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. Cette expérience invite les participants à reconnecter avec la nature et à redécouvrir leur lien avec elle de manière unique et émotionnelle.
+**Internature** est une expérience immersive qui intègre le mapping vidéo sur les parois de notre installation, accompagné d'une musique ambiante et de sons immersifs. Au cœur de cet environnement, les visiteurs sont invités à interagir avec les parois interactives et une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. Cette expérience invite les participants à reconnecter avec la nature et à redécouvrir leur lien avec elle de manière unique et émotionnelle.
 
 ## Objectif 
-Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature. L'interaction se fait en déplaçant la boule représentant notre implication en tant qu'humain sur l'environnement. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de l'espace. Lorsqu'elles occupent l'entièreté de l'espace, un spectacle lumineux qui met en valeur la beauté de la nature se déclenche. 
-
+Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature. L'interaction se fait en déplaçant la boule représentant notre implication en tant qu'humains sur l'environnement. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de l'espace. Lorsqu'elles occupent l'entièreté de l'espace, un spectacle lumineux qui met en valeur la beauté de la nature se déclenche.
 
 ## Schéma d'intéractivité
 ```mermaid
 flowchart TD
-    A[Animation visuelle minime et volume en pause: état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio et l'environnement intéractif]
-    B --> C[Intéragir avec la sphère]
-    C -->|pendant 30 secondes| D[Déclenchement de l'environnement intéractif unifié] 
-    D --> |pendant 2 minutes| A[Animation visuelle minime en veille]
+    A[Animation visuelle minime et volume en pause : état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio et de l'environnement interactif]
+    B --> C[Interagir avec la sphère]
+    C -->|Pendant 30 secondes| D[Déclenchement de l'environnement interactif unifié] 
+    D --> |Pendant 2 minutes| A[Animation visuelle minime en veille]
 ```
 
 ## Scénario
@@ -477,7 +476,7 @@ Semaine 3-4
 
 #### Description
 ##### Décrire le but du test, les caractéristiques de l’environnement du test et le principe de réalisation du test.
-S’assurer que la projection affichée sur les parois de la serre change lorsque l’intéracteur ne touche ni à la boule et ne fait pas de mouvements sur les parois de la serre.
+S’assurer que la projection affichée sur les parois de la serre change lorsque l’interacteur ne touche ni à la boule et ne fait pas de mouvements sur les parois de la serre.
 
 #### Contraintes
 ##### Décrire les contraintes liées à ce scénario (Environnement de test particulier, installation particulière, intervention humaine spécifique, …)

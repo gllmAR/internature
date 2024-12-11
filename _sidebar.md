@@ -1,1 +1,1 @@
-* [Ambiance](/Ambiance/)
+* [Ambiance](/main/)

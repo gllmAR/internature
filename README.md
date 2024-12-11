@@ -6,6 +6,7 @@
 Ce projet explore le lien entre l'humain, la technologie et la nature, en questionnant si la technologie peut réellement remplacer la nature. L'interaction se fait en déplaçant la boule représentant notre implication en tant qu'humains sur l'environnement. En fonction de ses mouvements, les plantes poussent et prennent progressivement possession de l'espace. Lorsqu'elles occupent l'entièreté de l'espace, un spectacle lumineux qui met en valeur la beauté de la nature se déclenche.
 
 ## Schéma d'intéractivité
+
 ```mermaid
 flowchart TD
     A[Animation visuelle minime et volume en pause : état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio et de l'environnement interactif]

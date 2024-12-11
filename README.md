@@ -14,6 +14,9 @@ flowchart TD
     D --> |Pendant 2 minutes| A[Animation visuelle minime en veille]
 ```
 
+<img width="577" alt="mermaid" src="https://github.com/user-attachments/assets/c8d1a35a-29ad-47a4-8a8d-2157ed02ad0f" />
+
+
 ## Scénario
 ![scenarimage01](https://github.com/user-attachments/assets/38255ac5-1f0f-4702-a841-fe37fe86ec29)
 

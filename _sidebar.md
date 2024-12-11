@@ -1,1 +1,2 @@
-* [Ambiance](/main/)
+* [Assets](/assets/)
+  * [Images](/assets/images/)

@@ -71,6 +71,9 @@ Un audio calme mêlant des synthétiseurs et des montages sonores expérimentaux
 | Bandes lumineuses LED   |  2       |
 | Serre portative         |  1       |
 
+![image](https://github.com/user-attachments/assets/482ec26f-6261-4a08-aeaa-f3cbe432914d)
+![image](https://github.com/user-attachments/assets/8be2296a-c715-4fca-a095-812974be2273)
+
 ## Gestion d'équipe
 ### Rôles
 #### Delphine (Programmeur)

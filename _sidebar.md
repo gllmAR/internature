@@ -1,2 +1,1 @@
-* [Assets](/assets/)
-  * [Images](/assets/images/)
+* [Ambiance](/Ambiance/)

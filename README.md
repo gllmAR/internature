@@ -164,11 +164,11 @@ https://github.com/tprangers/internature.git
 
 **R1** : Les animations risquent de ne pas être visibles et ou déformées/mauvaises qualités sur toutes les surfaces en raison de la configuration des projecteurs. (Valider la qualité du mapping). 
 
-**R2** : Risque que le **"”** ait de la difficulté à détecter le mouvement de la sphère. 
+**R2** : Risque que le PMW3360 Motion Sensor ait de la difficulté à détecter le mouvement de la sphère. 
 
 **R3** : Positionnement et place des haut-parleurs/projecteurs limités à cause de la serre. 
 
-**R4** : Peu de connaissances sur le **"”** et sa communication dans Arduino et sur le mapping vidéo. 
+**R4** : Peu de connaissances sur le PMW3360 Motion Sensor et sa communication dans Arduino et sur le mapping vidéo. 
 
 **R5** : La toile laisse passer de la lumière et il y a de la pollution de lumière. 
 
